@@ -3,6 +3,7 @@
 ## List
 - [What is GitLab](#What-is-GitLab) 
 - [Starting Config](#Starting-Configuration)
+- [Push Local Files](#Push-existed-project/folder)
 
 ## What is GitLab
 
@@ -43,31 +44,31 @@ e.g:
     ```git
     git config --global --list
     ```
-  
-- Push existed project/folder
-    1. First go into target folder initialize it (A .git file will created)
+ 
+## Push existed project/folder
+- First go into target folder initialize it (A .git file will created)
+```git
+git init
+```
+- Check current status (Branch, Commit)
+```git
+git status
+```
+- Add File
+    + Specific file
     ```git
-    git init
+    git add "xxxx"
     ```
-    2. Check current status (Branch, Commit)
-    ```git
-    git status
+    + Multiple files
+    ```git 
+    git add .
     ```
-    3. Add File
-        + Specific file
-        ```git
-        git add "xxxx"
-        ```
-        + Multiple files
-        ```git 
-        git add .
-        ```
-    4. Commit File
-    ```git
-    git commit -m "Any Msg"
-    ```
-    5. Push Commited Changes (origin can change to your repository's url)
-        + If you want to change authentication, in Windows "Credential" delete it or change it
-    ```git
-    git push -u origin master
-    ```
+- Commit File
+```git
+git commit -m "Any Msg"
+```
+- Push Commited Changes (origin can change to your repository's url)
+    + If you want to change authentication, in Windows "Credential" delete it or change it
+```git
+git push -u origin master
+```
