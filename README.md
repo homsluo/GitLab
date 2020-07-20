@@ -23,10 +23,10 @@ e.g:
 ## Starting Configuration  
 - Username  
     -- Set up the username in gitlab
-```git
-git config --global user.name "xxxx"
-```
-    -- Show added username  
-```git
-git config --global user.name
-```
+    ```git
+    git config --global user.name "xxxx"
+    ```
+    -- Show added username
+    ```git
+    git config --global user.name
+    ```
