@@ -43,3 +43,22 @@ e.g:
     ```git
     git config --global --list
     ```
+  
+- Push existed project/folder
+    1. First go into target folder initialize it (A .git file will created)
+    ```git
+    git init
+    ```
+    2. Check current status (Branch, Commit)
+    ```git
+    git status
+    ```
+    3. Add File
+        + Specific file
+        ```git
+        git add "xxxx"
+        ```
+        + Multiple files
+        ```git 
+        git add .
+        ```
