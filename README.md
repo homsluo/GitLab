@@ -7,7 +7,7 @@
 - [Fork a Project](#Fork-a-project)
 - [Setup SSH Key](#Setup-SSH-Key)
 - [GitLab Runner](#GitLab-Runner)
-- [GitLab CI/CD](#GitLab-CI&CD)
+- [GitLab CI/CD](#GitLab-CICD)
 
 ## What is GitLab
 
