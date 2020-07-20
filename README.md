@@ -4,7 +4,8 @@
 - [What is GitLab](#What-is-GitLab) 
 - [Starting Config](#Starting-Configuration)
 - [Push Local Files](#Push-existed-project)
-- [Fork a project](#Fork-a-project)
+- [Fork a Project](#Fork-a-project)
+- [Setup SSH Key](#Setup-SSH-Key)
 
 ## What is GitLab
 
@@ -76,7 +77,13 @@ git push -u origin master
 
 ## Fork a project
 ```
-What is fork:  
 A fork is a copy of a project.
 Forking a pro/repo allows you to make changes without affecting the original project
 ```
+- First click the 'fork' button in repo, if no available namespace, create your group then fork.
+- Then go to 'Merge Requests' to merge into the original project
+
+## Setup SSH Key
+- SSH - Secured Shell
+    + Used for authentication
+    + By setting ssh key you can connect to GitLab server without using username and password each time
