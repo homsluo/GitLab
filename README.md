@@ -20,8 +20,12 @@ e.g:
 - Bug tracking
 - CI & CD
 
-- Test  
-    -- test1
+
+- 一
+- 二
+- 三
+    -- 二级列表
+
 ## Starting Configuration  
 - Username  
     -- Set up the username in gitlab
