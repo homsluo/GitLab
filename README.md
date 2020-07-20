@@ -20,13 +20,15 @@ e.g:
 - Bug tracking
 - CI & CD
 
+- Test
+    -- test1
 ## Starting Configuration  
 - Username  
-    -- Set up the username in gitlab
+    --Set up the username in gitlab
     ```git
     git config --global user.name "xxxx"
     ```
-    -- Show added username
+    --Show added username
     ```git
     git config --global user.name
     ```
