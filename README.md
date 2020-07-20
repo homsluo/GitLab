@@ -1,6 +1,8 @@
 # GitLab
 
+## List
 - [What is GitLab](#What-is-GitLab) 
+- [Starting Config](#Starting-Configuration)
 
 ## What is GitLab
 
@@ -17,3 +19,8 @@ e.g:
 - Wiki
 - Bug tracking
 - CI & CD
+
+## Starting Configuration
+
+'''git
+git config --global user.name "xxxx"
