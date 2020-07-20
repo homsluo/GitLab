@@ -20,9 +20,8 @@ e.g:
 - Bug tracking
 - CI & CD
 
-## Starting Configuration
-
+## Starting Configuration  
+- Set up the username in gitlab
 ```git
 git config --global user.name "xxxx"
 ```
-Set up the username in gitlab
