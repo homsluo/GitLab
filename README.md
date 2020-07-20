@@ -1,6 +1,6 @@
 # GitLab
 
-- [test](#test  1) 
+- [test](#test-1) 
 
 ## What is GitLab
 
