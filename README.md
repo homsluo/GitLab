@@ -24,3 +24,5 @@ e.g:
 
 ```git
 git config --global user.name "xxxx"
+```
+Set up the username in gitlab
