@@ -2,10 +2,8 @@
 
 ## What is GitLab ##
 
-**Git** - Version control system
-
-to locally track changes in your project/folder and push & pull changes
-
+**Git** - Version control system  
+to locally track changes in your project/folder and push & pull changes  
 from remote repositories like GitHubm BitBucketm GitLab
 
 **GitLab, GitHub, BitBucket** - Services
