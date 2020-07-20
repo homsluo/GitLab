@@ -7,6 +7,7 @@
 - [Fork a Project](#Fork-a-project)
 - [Setup SSH Key](#Setup-SSH-Key)
 - [GitLab Runner](#GitLab-Runner)
+- [GitLab CI/CD](#GitLab-CI&CD)
 
 ## What is GitLab
 
@@ -99,3 +100,5 @@ ssh-keygen
 - What is GitLab Runnber
     + Used in GitLab CI
         * Open source continuous integration service included with GitLab
+    + Used to run jobs & send results back to GitLab
+## GitLab CI&CD
