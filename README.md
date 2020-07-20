@@ -22,5 +22,5 @@ e.g:
 
 ## Starting Configuration
 
-'''git
+```git
 git config --global user.name "xxxx"
