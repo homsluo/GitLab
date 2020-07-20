@@ -30,3 +30,12 @@ e.g:
     ```git
     git config --global user.name
     ```
+- Email
+    + Set up the email
+    ```git
+    git config --global user.email "xxxx"
+    ```
+    + Show added email
+    ```git
+    git config --global user.email
+    ```
