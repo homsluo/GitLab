@@ -4,6 +4,7 @@
 - [What is GitLab](#What-is-GitLab) 
 - [Starting Config](#Starting-Configuration)
 - [Push Local Files](#Push-existed-project)
+- [Fork a project](#Fork-a-project)
 
 ## What is GitLab
 
@@ -71,4 +72,11 @@ git commit -m "Any Msg"
     + If you want to change authentication, in Windows "Credential" delete it or change it
 ```git
 git push -u origin master
+```
+
+## Fork a project
+```
+What is fork:  
+A fork is a copy of a project.
+Forking a pro/repo allows you to make changes without affecting the original project
 ```
