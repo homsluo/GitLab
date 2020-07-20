@@ -25,3 +25,7 @@ e.g:
 ```git
 git config --global user.name "xxxx"
 ```
+- Show added username
+```git
+git config --global user.name
+```
