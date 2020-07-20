@@ -1,6 +1,6 @@
 # GitLab
 
-- [test](#test-1) 
+- [What is GitLab](#What-is-GitLab) 
 
 ## What is GitLab
 
@@ -17,5 +17,3 @@ e.g:
 - Wiki
 - Bug tracking
 - CI & CD
-
-## test 1
