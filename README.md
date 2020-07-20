@@ -3,7 +3,7 @@
 ## section
 - [About](#what is gitlab)
 
-## What is GitLab ##[TOC]
+## What is GitLab [TOC]
 
 **Git** - Version control system  
 to locally track changes in your project/folder and push & pull changes  
