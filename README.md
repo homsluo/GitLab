@@ -102,3 +102,20 @@ ssh-keygen
         * Open source continuous integration service included with GitLab
     + Used to run jobs & send results back to GitLab
 ## GitLab CI&CD
+- What is GitLab CI/CD
+    + GitLab CI is an open source CI service included with GitLab Since ver-8.0
+    + Continuous Integration: DEV > Application Test > Integration Test
+    + Continuous Delivery:    DEV > Application Test > Integration Test > Acceptance Test
+    + Continuous Deployment:  DEV > Application Test > Integration Test > Acceptance Test > Production
+- Add .gitlab-ci.yml in the root folder of your project/repo
+```
+demo_job_1:
+     tags:
+       - ci
+     script:
+       - echo Hello World
+```
+- Commit and push file to gitlab repo
+- Create GitLab runner for the project
+- Start the runner
+- Make any change in the project > commit > push
