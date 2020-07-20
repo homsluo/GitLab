@@ -1,8 +1,6 @@
 # GitLab
 
-- [test](#test)
-
-## test 1
+- [test](#test 1)
 
 ## What is GitLab
 
@@ -20,4 +18,4 @@ e.g:
 - Bug tracking
 - CI & CD
 
-
+## test 1
