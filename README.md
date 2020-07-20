@@ -39,3 +39,7 @@ e.g:
     ```git
     git config --global user.email
     ```
+- Show all your settings
+    ```git
+    git config --global --list
+    ```
