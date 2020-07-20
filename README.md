@@ -62,3 +62,12 @@ e.g:
         ```git 
         git add .
         ```
+    4. Commit File
+    ```git
+    git commit -m "Any Msg"
+    ```
+    5. Push Commited Changes (origin can change to your repository's url)
+    ```git
+    git push -u origin master
+    ```
+        + If you want to change authentication, in Windows "Credential" delete it or change it
