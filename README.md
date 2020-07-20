@@ -1,6 +1,8 @@
 # GitLab
 
-[TOC]
+- [test](#test)
+
+## test
 
 ## What is GitLab
 
