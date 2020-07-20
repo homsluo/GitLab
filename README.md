@@ -6,6 +6,7 @@
 - [Push Local Files](#Push-existed-project)
 - [Fork a Project](#Fork-a-project)
 - [Setup SSH Key](#Setup-SSH-Key)
+- [GitLab Runner](#GitLab-Runner)
 
 ## What is GitLab
 
@@ -87,3 +88,14 @@ Forking a pro/repo allows you to make changes without affecting the original pro
 - SSH - Secured Shell
     + Used for authentication
     + By setting ssh key you can connect to GitLab server without using username and password each time
+
+- Generate SSH key (Mac: use terminal. Windows: use putty or git bash)
+```
+ssh-keygen
+```
+- Login to GitLab > Account > Settings > SSH Keys > Copy 'id_rsa.pub' and paste in 'Key' > Add Key
+
+## GitLab Runner
+- What is GitLab Runnber
+    + Used in GitLab CI
+        * Open source continuous integration service included with GitLab
