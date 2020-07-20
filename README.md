@@ -67,7 +67,7 @@ e.g:
     git commit -m "Any Msg"
     ```
     5. Push Commited Changes (origin can change to your repository's url)
+        + If you want to change authentication, in Windows "Credential" delete it or change it
     ```git
     git push -u origin master
     ```
-        + If you want to change authentication, in Windows "Credential" delete it or change it
