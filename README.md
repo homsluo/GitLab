@@ -3,7 +3,7 @@
 ## List
 - [What is GitLab](#What-is-GitLab) 
 - [Starting Config](#Starting-Configuration)
-- [Push Local Files](#Push-existed-project/folder)
+- [Push Local Files](#Push-existed-project)
 
 ## What is GitLab
 
@@ -45,7 +45,7 @@ e.g:
     git config --global --list
     ```
  
-## Push existed project/folder
+## Push existed project
 - First go into target folder initialize it (A .git file will created)
 ```git
 git init
