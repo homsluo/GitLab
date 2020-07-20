@@ -1,7 +1,7 @@
 # GitLab
 
 ## section
-- [What is GitLab][##What is GitLab]
+- [What is GitLab](##What is GitLab)
 
 ## What is GitLab ##
 
